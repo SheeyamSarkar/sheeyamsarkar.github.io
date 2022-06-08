@@ -391,7 +391,7 @@ Version:	1.1
 	Personal CSS
 =========================*/  
 #personal-area {
-	background-image: url('http://via.placeholder.com/1500x800');
+	background-image: url('images/coverpic.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 680px;
@@ -2579,7 +2579,7 @@ Version:	1.1
 	padding: 200px 0 70px;
 	background: #F8F8F8;
 	border-top: 3px solid;
-	background: url('http://via.placeholder.com/1500x800');
+	background: url('images/coverpic.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: relative;
